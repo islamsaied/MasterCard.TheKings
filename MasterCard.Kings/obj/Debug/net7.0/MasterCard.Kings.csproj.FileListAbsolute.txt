@@ -1,0 +1,12 @@
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.csproj.AssemblyReference.cache
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.AssemblyInfoInputs.cache
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.AssemblyInfo.cs
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.csproj.CoreCompileInputs.cache
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\bin\Debug\net7.0\MasterCard.Kings.deps.json
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\bin\Debug\net7.0\MasterCard.Kings.dll
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\bin\Debug\net7.0\MasterCard.Kings.pdb
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.dll
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\refint\MasterCard.Kings.dll
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\MasterCard.Kings.pdb
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.Kings\obj\Debug\net7.0\ref\MasterCard.Kings.dll

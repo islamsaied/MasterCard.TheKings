@@ -1,0 +1,5 @@
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.TheKings\obj\Debug\net7.0\MasterCard.TheKings.csproj.AssemblyReference.cache
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.TheKings\obj\Debug\net7.0\MasterCard.TheKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.TheKings\obj\Debug\net7.0\MasterCard.TheKings.AssemblyInfoInputs.cache
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.TheKings\obj\Debug\net7.0\MasterCard.TheKings.AssemblyInfo.cs
+C:\Users\Islam_Saied\Documents\Epam\Epam\Work\The kings\MasterCard.TheKings\MasterCard.TheKings\obj\Debug\net7.0\MasterCard.TheKings.csproj.CoreCompileInputs.cache
